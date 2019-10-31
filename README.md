@@ -1,4 +1,5 @@
-############# Playthru (Mobile) ###############
+Playthru (Mobile)
+=================
 
 A song recommendation app for DJs https://playthru.xyz/
 
